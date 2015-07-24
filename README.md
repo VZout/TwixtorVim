@@ -32,5 +32,6 @@ Ctrl + D | Toggle NERDTree
 
 ### Other Information
 
-**Font: ** Consolas
-**Theme: ** Badwolf 
+**Font:** Consolas
+
+**Theme:** Badwolf 
