@@ -30,3 +30,7 @@ Alt + Down  | Move current line down
 Ctrl + Shift + F | Format code
 Ctrl + D | Toggle NERDTree
 
+### Other Information
+
+**Font: ** Consolas
+**Theme: ** Badwolf 
