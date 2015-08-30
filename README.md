@@ -2,7 +2,8 @@
 
 ### Requirements
 
-* Python 2 or 3 https://www.python.org/downloads/
+* Python 2 or 3 https://www.python.org/downloads/ (Not sure if vim-clang and vim-autoformat actually needs it)
+* A Lua compiled version of Vim
 * Clang binaries http://llvm.org/releases/download.html
 
 ### Instalation
