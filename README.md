@@ -16,10 +16,12 @@ git clone https://github.com/twixtor/TwixtorVim.git %USERPROFILE%//vimfiles/
 Create a folder called "vimfiles" in your home directory and extract the files from the zip in your newly created "vimfiles" folder
 
 ### Plugins
-
+* a.vim
+* Vundle
 * NERDTree
-* YouCompleteMe
+* Neocomplete
 * vim-autoformat
+* vim-clang
 
 ### Custom Key Bindings
 
@@ -35,3 +37,4 @@ Ctrl + D | Toggle NERDTree
 **Font:** Consolas
 
 **Theme:** Badwolf 
+
